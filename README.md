@@ -1,5 +1,5 @@
 # Particle and Opinion Dynamics 
-##Network Dynamics and Learning Project 2
+## Network Dynamics and Learning Project 2
 
 ## 📜 Project Overview
 This repository contains my work for the second individual project in the "Network Dynamics and Learning" course at Politecnico di Torino (2023/2024). This project explores **random walk dynamics**, **opinion dynamics**, and the behavior of open and closed networks.
