@@ -32,7 +32,6 @@ The main focus areas include:
 ---
 
 ## 📂 Repository Contents
-- **`HW2_Report.pdf`**: Full report with problem descriptions, methods, and results.
 - **`HW2_LalAkin.ipynb`**: Jupyter Notebook with Python code for all simulations and visualizations.
   - Transition matrices and parameters used for simulations.
 
